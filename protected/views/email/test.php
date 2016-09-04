@@ -1,0 +1,1 @@
+<h1>this is message.... <?php echo $user,$link;?></h1>
