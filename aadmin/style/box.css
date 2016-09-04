@@ -1,0 +1,58 @@
+.box { background: #fff; width:100%; margin-bottom:12px;}
+.box .box-t { background: top url(../images/box_t.gif) repeat-x; }
+.box .box-r { background: right url(../images/box_r.gif) repeat-y; }
+.box .box-b { background: bottom url(../images/box_b.gif) repeat-x; }
+.box .box-l { background: left url(../images/box_l.gif) repeat-y; }
+.box .box-tr { background: top right url(../images/box_tr.gif) no-repeat ; }
+.box .box-br { background: bottom right url(../images/box_br.gif) no-repeat; }
+.box .box-bl { background: bottom left url(../images/box_bl.gif) no-repeat; }
+.box .box-tl { background: top left url(../images/box_tl.gif) no-repeat; }
+
+.box .box-tl {padding:20px 10px 40px 10px;}
+.box .box-tl  .heading{ width:100%;font-family:Arial, Helvetica, sans-serif ; font-weight:normal;font-size:12px; font-weight:bold;	color:#000;	text-decoration:none;
+	text-align:left; padding:5px 0px 0px 10px;}
+.box .box-tl  .heading span{ float:right; font-size:11px;}
+.box .box-tl  .heading span a{ font-weight:normal; font-size:11px; color:#3366cc; text-decoration:none}
+
+
+
+
+
+.box1 { background: #fff; width:100%;}
+.box1 .box-t { background: top url(../images/box_t1.gif) repeat-x; }
+.box1 .box-r { background: right url(../images/box_r1.gif) repeat-y; }
+.box1 .box-b { background: bottom url(../images/box_b1.gif) repeat-x; }
+.box1 .box-l { background: left url(../images/box_l1.gif) repeat-y; }
+.box1 .box-tr { background: top right url(../images/box_tr1.gif) no-repeat; }
+.box1 .box-br { background: bottom right url(../images/box_br1.gif) no-repeat; }
+.box1 .box-bl { background: bottom left url(../images/box_bl1.gif) no-repeat; }
+.box1 .box-tl { background: top left url(../images/box_tl1.gif) no-repeat; }
+
+.box1 .box-tl {padding:10px 10px 10px 10px;}
+.box1 .box-tl  .heading{ width:100%;font-family:Arial, Helvetica, sans-serif ; font-weight:normal;font-size:12px; font-weight:bold;	color:#000;	text-decoration:none;
+	text-align:left;  text-indent:0px}
+.box1 .box-tl  .heading span{ float:right; font-size:11px;}
+.box1 .box-tl  .heading span a{ font-weight:normal; font-size:11px; color:#3366cc; text-decoration:none}
+
+
+
+
+
+
+
+.box2 { background: #fff; width:97%; margin-bottom:10px;}
+.box2 .box-t { background: top url(../images/box_t2.gif) repeat-x; }
+.box2 .box-r { background: right url(../images/box_r2.gif) repeat-y; }
+.box2 .box-b { background: bottom url(../images/box_b2.gif) repeat-x; }
+.box2 .box-l { background: left url(../images/box_l2.gif) repeat-y; }
+.box2 .box-tr { background: top right url(../images/box_tr2.gif) no-repeat; }
+.box2 .box-br { background: bottom right url(../images/box_br2.gif) no-repeat; }
+.box2 .box-bl { background: bottom left url(../images/box_bl2.gif) no-repeat; }
+.box2 .box-tl { background: top left url(../images/box_tl2.gif) no-repeat; }
+
+.box2 .box-tl {padding:10px 10px 10px 10px;}
+.box2 .box-tl  .heading{ width:100%;font-family:Arial, Helvetica, sans-serif ; font-weight:normal;font-size:12px; font-weight:bold;	color:#fff;	text-decoration:none;
+	text-align:left;  text-indent:0px}
+.box2 .box-tl  .heading span{ float:left; font-size:11px;}
+.box2 .box-tl  .heading span a{ font-weight:normal; font-size:11px; color:#3366cc; text-decoration:none}
+
