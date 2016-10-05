@@ -10,5 +10,9 @@ A sample of demo website is located at http://exchange.airkayu.com/
 <br>Username: delta9144
 <br>Password: 123456
 
-
 Another history you may find about it is located at http://airkayu.com/home/virtual-coin-exchange-platform
+
+ROADMAP:
+#. Bugs fixes
+#. Bridging to Telegram bots
+#. Additional features
