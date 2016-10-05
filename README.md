@@ -6,7 +6,7 @@ Kindly contact me, Jackson @ +601120201023 (Whatsapp only) for further informati
 
 A sample of demo website is located at http://exchange.airkayu.com/
 
-<b>Sample Login Details</b>
+<b>Demo Login Details</b>
 <br>Username: delta9144
 <br>Password: 123456
 
