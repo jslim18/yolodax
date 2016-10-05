@@ -13,6 +13,6 @@ A sample of demo website is located at http://exchange.airkayu.com/
 Another history you may find about it is located at http://airkayu.com/home/virtual-coin-exchange-platform
 
 ROADMAP:
-#. Bugs fixes
-#. Bridging to Telegram bots
-#. Additional features
+~ Bugs fixes
+~ Bridging to Telegram bots
+~ Additional features
