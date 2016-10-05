@@ -5,5 +5,9 @@ Kindly contact me, Jackson @ +601120201023 (Whatsapp only) for further informati
 
 
 A sample of demo website is located at http://exchange.airkayu.com/
+  <b>Login detail</b>
+  Username: delta9144
+  Password: 123456
 
-Another details you may find about it is located at http://airkayu.com/home/virtual-coin-exchange-platform
+
+Another history you may find about it is located at http://airkayu.com/home/virtual-coin-exchange-platform
